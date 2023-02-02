@@ -12,3 +12,6 @@ Simple snake game writed in C++ using SFML library.
  - Add some blocks to a random position that the snake cannot break into.
  - Add some audio
  - Add speed by pressing the same key twice.
+
+# Screenshots from the game
+![Screenshot from the game](/images/game.png)
