@@ -15,3 +15,4 @@ Simple snake game writed in C++ using SFML library.
 
 # Screenshots from the game
 ![Screenshot from the game](/images/game.png)
+![Screenshot when you loose](/images/game_loose.png)
